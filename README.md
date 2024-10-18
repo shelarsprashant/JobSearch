@@ -26,6 +26,10 @@ Welcome to the *Job Search App*, a powerful full-stack application built using t
 - **Other Tools:** Mongoose for MongoDB object modeling, JSON Web Tokens (JWT) for secure authentication, Cloudinary for image uploads (e.g., for user profile pictures or job listings),
 
 
+
+
+
+
 ## 📦 Installation
 
 To set up the project locally, follow these steps:
@@ -85,9 +89,9 @@ Create a .env file in the backend directory and add your MongoDB URI and JWT sec
 
 ## 🌐 Usage
 
-###### 1. Open your browser and navigate to http://localhost:3000.
-######    2. Create an account or log in to start exploring job listings.
-######    3. Apply for jobs and manage your profile from the dashboard.
+#####    1. Open your browser and navigate to http://localhost:3000.
+#####    2. Create an account or log in to start exploring job listings.
+#####    3. Apply for jobs and manage your profile from the dashboard.
 
   
 ## 📡 API Endpoints
