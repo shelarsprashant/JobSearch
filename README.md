@@ -172,6 +172,8 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 
 For any support or feedback, feel free to reach out:
 
-Your Name - shelarsprashant@gmail.com
-GitHub: shelarsprashant 
+Your Name - *Prashant Sanjivan Shelar*   
+Email - *shelarsprashant@gmail.com*  
+LinkedIn - *https://www.linkedin.com/in/prashantsshelar/*
+
 
